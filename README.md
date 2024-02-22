@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Salma Begum Sheik</h1>
-<h3 align="center">A passionate Fullstack Developer looking forward for an opportunity with a team to develop scalable, functional, user friendly websites</h3>
+<h3 align="center">A passionate Fullstack Developer looking forward o develop scalable, functional and user friendly websites</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salmarepo&label=Profile%20views&color=0e75b6&style=flat" alt="salmarepo" /> </p>
 
