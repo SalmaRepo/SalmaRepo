@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://react-js-protfolio-rg88.vercel.app/](https://react-js-protfolio-rg88.vercel.app/)
 
-- 💬 Ask me about **react, js , html , css**
+- 💬 Ask me about **react.js, javascript , html , css, sass, mongoDB, Node.js,Express.js**
 
 - 📫 How to reach me **salma.shaikh751@gmail.com**
 
