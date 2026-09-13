@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Salma Begum Sheik</h1>
 <h3 align="center">
-ISTQB Certified Software Quality Engineer | Manual & Automation Testing | Playwright
+ISTQB Certified Software Quality Engineer | Manual & Automation Testing | Playwright + TypeScript
 </h3>
 
 <p align="left">
@@ -18,10 +18,11 @@ ISTQB Certified Software Quality Engineer | Manual & Automation Testing | Playwr
 ## 👩‍🔬 About Me
 
 * 🧪 **ISTQB Certified Software Quality Engineer** with experience in **manual and automation testing**
-* 🤖 Currently building **UI test automation frameworks using Playwright (JavaScript)**
+* 🤖 Currently building **UI test automation frameworks using Playwright with TypeScript** (also comfortable coding in JavaScript)
 * 🔍 Strong in **functional, regression, and integration testing**
-* 🧠 Background in **Full Stack Web Development**, helping me understand application architecture and collaborate effectively with developers
-* 🌍 Based in Germany | Open to QA / Test Engineer roles
+* 🧠 Background in **Full Stack Web Development (MERN Stack — 1 year)**, helping me understand application architecture and collaborate effectively with developers
+* 🐍 Basic working knowledge of **Python** and **Java**
+* 🌍 Based in Hyderabad, India | Open to QA / Test Engineer roles
 
 ---
 
@@ -29,8 +30,9 @@ ISTQB Certified Software Quality Engineer | Manual & Automation Testing | Playwr
 
 ### 🔹 Test Automation
 
-* Playwright (JavaScript)
-* Selenium (Java)
+* Playwright (TypeScript) — primary focus
+* JavaScript — also comfortable coding in
+* Basic knowledge of Selenium (Java)
 * UI test automation & assertions
 * Cross-browser testing
 * Test execution & reporting
@@ -42,8 +44,16 @@ ISTQB Certified Software Quality Engineer | Manual & Automation Testing | Playwr
 * Defect identification, logging & tracking
 * Requirement analysis & test planning
 
+### 🔹 Programming Languages
+
+* TypeScript — primary
+* JavaScript
+* Basics of Python
+* Basics of Java
+
 ### 🔹 Tools & Technologies
 
+* MERN Stack (MongoDB, Express, React, Node.js) — 1 year
 * Git & GitHub
 * JIRA, Confluence
 * Chrome DevTools
@@ -68,7 +78,7 @@ ISTQB Certified Software Quality Engineer | Manual & Automation Testing | Playwr
 
 ## 💬 Ask Me About
 
-**Manual Testing, Test Automation, Playwright, Selenium, Test Cases, Defect Reporting, Agile QA**
+**Manual Testing, Test Automation, Playwright, TypeScript, JavaScript, Basic Selenium, MERN Stack, Test Cases, Defect Reporting, Agile QA**
 
 ---
 
@@ -86,18 +96,26 @@ ISTQB Certified Software Quality Engineer | Manual & Automation Testing | Playwr
 <!-- Automation & QA -->
 
 <img src="https://playwright.dev/img/playwright-logo.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" width="40" height="40"/>
+
+<!-- Languages -->
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
+
+<!-- MERN Stack -->
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
 
 <!-- Tools -->
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/>
-
-<!-- Dev background (supporting skill) -->
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
 
 </p>
 
