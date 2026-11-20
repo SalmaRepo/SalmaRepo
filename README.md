@@ -72,7 +72,7 @@ ISTQB Certified Software Quality Engineer | Manual & Automation Testing | Playwr
 
 * 🧪 **Playwright Automation Framework**
   End-to-end UI test automation project demonstrating Playwright skills
-  🔗 [https://github.com/SalmaRepo/PlayWrightAutomation](https://github.com/SalmaRepo/PlayWrightAutomation)
+  🔗https://github.com/SalmaRepo/toolshop-playwright-automation
 
 ---
 
